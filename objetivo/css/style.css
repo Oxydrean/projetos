@@ -1,0 +1,140 @@
+.logobranco{
+	width: 2%;
+	padding-right: 10px;
+}
+.cabeca{
+	padding-left: 1100px;
+}
+header .caixapreta{
+	font-size: 30px;
+	text-transform: uppercase;
+	background: #000000;
+	color: #ffffff;
+	padding: 20px 30px 30px;
+	font-family: 'Fredoka One', cursive;
+}
+header .caixacinza{
+	width: 100%;
+	background: #F9F9F9;
+	border-bottom: 1px solid #000000;
+	padding: 30px 30px 30px;
+	margin: 0 0 1px;
+}
+nav{
+	display: inline;
+	position: absolute;
+	top: 110px;
+	left: 20px;
+
+	font-family: 'Montserrat';
+	font-size: 16px;
+	font-weight: bold;
+	color:red;
+
+}
+nav li{
+	display: inline;
+	margin: 0 15px;
+}
+.imagens{
+	background: #9b9b9c	
+}
+.criancas{
+	margin-top: 30px;
+	margin-left: 70px;
+	margin-bottom: 30px;
+	width: 90%;
+	box-shadow: 1px 1px black, -1px -1px black;
+
+}
+.titulocriancas{
+	position: absolute;
+	top: 400px;
+	left: 200px;
+
+	font-family: 'Montserrat', cursive;
+	font-size: 105px;
+	text-transform: uppercase;
+
+	color: #FFFFFF;
+	font-weight: bold;
+	text-shadow: 5px 5px black, -1px -1px black, 1px 1px black;	
+}
+.titulomatriculas{
+	position: absolute;
+	top: 720px;
+	left: 330px;
+
+	font-family: 'Montserrat', cursive;
+	font-size: 40px;
+	text-transform: uppercase;
+
+	color: #FFFFFF;
+	font-weight: bold;
+	text-shadow: 4px 4px black, -1px -1px black, 1px 1px black;
+}
+.parcerias{
+	background: #e7e7e7;
+	padding-left: 25px;
+}
+.noticias{
+	padding: 30px 0;
+}
+.titulonoticias{
+	font-family: 'Alatsi', sans-serif;
+	text-transform: uppercase;
+	font-size: 50px;
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+/* Footer */
+
+footer{
+	background: #0b194a;
+	color: white;
+	font-family: 'Arial', sans-serif;
+}
+.bordarodape{
+	background:#122876;
+	color: #122876;
+	font-size: 10px;
+}
+.numerosrodape{
+	padding: 20px 20px 10px 10px;
+	margin: 5px 5px 5px 5px;
+	letter-spacing: 1px;
+}
+.direitos{
+	padding: 20px 20px 10px 10px;
+	margin: 5px 5px 5px 5px;
+	letter-spacing: 2px;
+}
+strong{
+	font-weight: bold;
+}
+
+/* Noticias Box*/
+.novidades li {
+	display: inline-block;
+	border: 8px solid black;
+	background-color: #FAFFFC;
+	width: 20%;
+	box-sizing: border-box;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-left: 350px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+	align-content: center;
+	text-align: center;
+	font-family: 'Alatsi';
+}
+
+.novidades img {
+	width: 40;
+}
+
+.centralizado{
+	align-content: center;
+}
